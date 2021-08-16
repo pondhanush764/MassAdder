@@ -7,6 +7,9 @@
 <p><img src="https://i1.wp.com/python.gotrained.com/wp-content/uploads/2019/01/desc.png?resize=768%2C479&ssl=1"></p>
 
 ## How To Install? (Only for VPS or Termux):
+`Fork this repo`
+
+`in adder.py enter your values as api id and api hash and phone number`
 
 $ `pkg install git python -y`
 
